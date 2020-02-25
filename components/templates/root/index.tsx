@@ -1,6 +1,6 @@
 import React from "react";
-import { Organism } from "../../organisms";
+import { UserList } from "../../organisms/UserList";
 
 export const Root: React.FC = () => {
-  return <Organism />;
+  return <UserList />;
 };
